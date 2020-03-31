@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_service_description">Để kích hoạt tính năng phân tích thông tin khuyến mại bạn cần cho phép ứng dụng truy cập dữ liệu điện thoại.</string>
+    <string name="enable_accessibility">Vào Cài đặt để kích hoạt tính năng truy cập điện thoại - applications accessibility. Nó cho phép ứng dụng phân tích thông tin khuyến mại để tư vấn tối ưu gói cước sử dụng</string>
+    <string name="renable_accessibility">Tính năng truy cập đã được kích hoạt nhưng không hoạt động. Đã xảy ra lỗi làm nó dừng. Hãy Tắt đi và sau đó Bật lại tính năng Truy cập - Applications accessibility trong Cài đặt của điện thoại.</string>
+    <string name="enable_accessibility_action">Cho phép</string>
+    <string name="enable_accessibility_Title">Cho phép truy cập điện thoại</string>
+</resources>

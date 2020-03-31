@@ -1,0 +1,9 @@
+<resources>
+    <string name="accessibility_service_description">To detect and respond to a ussd dialog this service must be enabled.</string>
+    <string name="enable_accessibility">Please enable this applications accessibility service in settings. This allows the application to detect and respond to ussd dialogs.</string>
+    <string name="renable_accessibility">This application accessibility service is enabled but not running. This usually happens after the application has crushed or has been force stopped. Please disable and re-enable this applications accessibility service in settings.</string>
+    <string name="enable_accessibility_action">Enable</string>
+    <string name="enable_accessibility_Title">Enable Accessibility</string>
+
+    <string name="requestItemMessage" translatable="false">Message: %s</string>
+</resources>
